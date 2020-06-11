@@ -1,0 +1,16 @@
+#Application properties
+server:
+  port: 8082
+
+aws:
+  services:
+    bucket: ""
+
+#AWS properties
+cloud:
+  aws:
+    stack.auto: false
+    region.static: "ap-southeast-1"
+    credentials:
+      accessKey: ""
+      secretKey: ""
