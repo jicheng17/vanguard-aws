@@ -1,0 +1,2 @@
+# vanguard-aws
+aws
